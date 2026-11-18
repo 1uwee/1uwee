@@ -7,7 +7,7 @@ Outside of code, you'll find me watching anime, hitting the gym, or dozing. I al
 
 Fun Facts:
 
-  ◈ I don't like working in a group.<br>  ◈ I love challenges.
+&nbsp;&nbsp;&nbsp;&nbsp;◈ I don't like working in a group.<br> &nbsp;&nbsp;&nbsp;&nbsp;◈ I love challenges.
 
 ### I Speak:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
