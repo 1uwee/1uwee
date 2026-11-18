@@ -10,7 +10,7 @@ Outside of code, you'll find me watching anime, hitting the gym, or dozing. I al
 
 Fun Facts:
 
-&nbsp;&nbsp;&nbsp;&nbsp;◈ I don't like working in a group.<br> &nbsp;&nbsp;&nbsp;&nbsp;◈ I love challenges.
+&nbsp;&nbsp;&nbsp;&nbsp;◈ I don't like working in groups.<br> &nbsp;&nbsp;&nbsp;&nbsp;◈ I love challenges.
 
 ### Laboratory Activites 🤓
 A collection of my exercises and academic work for ITE102 at National University of Clark can be found [here](https://github.com/luweetech/ITE102/tree/main/Midterm%20LabTasks)!
