@@ -1,7 +1,7 @@
 ### Hi there!🙋
-I'm *Luwee*, an Information Technology student at National University of Clark specializing in Mobile and Web Applications based in Philippines. 
+I'm *Luwee*, an Information Technology student at National University of Clark specializing in Mobile and Web Applications based in the Philippines. 
 
-I'm currently learning programming and developing my skills in technology and creative media.
+I'm currently learning programming and developing my skills in technology and creative media. That's right, this is the beginning of my programming journey!
 
 Outside of code, you'll find me watching anime, hitting the gym, or dozing. I also enjoy hiking mountains, sharing my adventures through my amateur photographing skills but also my phenomenal video editing skills on my [Instagram](https://instagram.com/geoffpantig)
 
