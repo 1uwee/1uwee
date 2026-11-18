@@ -1,5 +1,5 @@
 ### Hi there!🙋
-<img src="assets/yamada-kun-and-the-seven-witches-speak-to-me-doja.gif" width="7%" />
+<img src="assets/yamada-kun-and-the-seven-witches-speak-to-me-doja.gif" width="12%" />
 I'm Luwee, an Information Technology student at National University of Clark specializing in Mobile and Web Applications based in the Philippines. 
 
 I'm currently learning programming and developing my skills in technology and creative media. That's right, this is the beginning of my programming journey!
