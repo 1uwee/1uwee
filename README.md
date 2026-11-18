@@ -1,4 +1,4 @@
-### Hi there!🙋
+###Hi there!🙋
 <img src="assets/yamada-kun-and-the-seven-witches-speak-to-me-doja.gif" width="7%" />
 I'm Luwee, an Information Technology student at National University of Clark specializing in Mobile and Web Applications based in the Philippines. 
 
@@ -10,7 +10,7 @@ Fun Facts:
 
 &nbsp;&nbsp;&nbsp;&nbsp;◈ I don't like working in a group.<br> &nbsp;&nbsp;&nbsp;&nbsp;◈ I love challenges.
 
-### Laboratory Activites 🤓
+###Laboratory Activites 🤓
 A collection of my exercises and academic work for ITE102 at National University of Clark can be found [here](https://github.com/luweetech/ITE102/tree/main/Midterm%20LabTasks)!
 
 
