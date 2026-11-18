@@ -11,7 +11,7 @@ Fun Facts:
 &nbsp;&nbsp;&nbsp;&nbsp;◈ I don't like working in a group.<br> &nbsp;&nbsp;&nbsp;&nbsp;◈ I love challenges.
 
 ### Laboratory Activites 🤓
-[Here's](https://github.com/luweetech/ITE102/tree/main/Midterm%20LabTasks) a collection of my exercises and academic work for ITE102 at National University of Clark.
+A collection of my exercises and academic work for ITE102 at National University of Clark can be found [here](https://github.com/luweetech/ITE102/tree/main/Midterm%20LabTasks)!
 
 
 
