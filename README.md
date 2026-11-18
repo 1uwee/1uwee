@@ -1,3 +1,5 @@
+<img src="assets/banner.png" width="100%" />
+
 ### Hi there!🙋
 
 I'm Luwee, an Information Technology student at National University of Clark specializing in Mobile and Web Applications based in the Philippines. 
