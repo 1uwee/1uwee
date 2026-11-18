@@ -14,6 +14,5 @@ Fun Facts:
 
 
 
-<div align="center">
-    <img src="assets/yamada-kun-and-the-seven-witches-speak-to-me-doja.gif" width="10%" />
-</div>
+<img src="assets/yamada-kun-and-the-seven-witches-speak-to-me-doja.gif" width="10%" />
+
