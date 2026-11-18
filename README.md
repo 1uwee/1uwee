@@ -3,7 +3,7 @@ I'm *Luwee*, an Information Technology student at National University of Clark s
 
 I'm currently learning programming and developing my skills in technology and creative media.
 
-Outside of code, you'll find me watching anime, hitting the gym, or dozing. I also enjoy hiking mountains, sharing my amateur photographing skills but dare I say *phenomenal* video editing skills on my [Instagram](https://instagram.com/geoffpantig)
+Outside of code, you'll find me watching anime, hitting the gym, or dozing. I also enjoy hiking mountains, sharing my adventures through my amateur photographing skills but also my phenomenal video editing skills on my [Instagram](https://instagram.com/geoffpantig)
 
 Fun Facts:
 
