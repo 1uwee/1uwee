@@ -1,3 +1,15 @@
+<div align="center">
+
+
+
+
+
+
+
+
+</div>
+
+
 # 💫 About Me:
 I'm an Information Technology student at National University of Clark<br>specializing in Mobile and Web Applications.<br><br>I'm currently learning programming and<br>developing my skills in technology and creative media.
 
