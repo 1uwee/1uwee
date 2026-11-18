@@ -1,4 +1,4 @@
-<img src="assets/banner.png" width="100%" />
+<img src="assets/banner.png" width="50%" />
 
 ### Hi there!🙋
 
